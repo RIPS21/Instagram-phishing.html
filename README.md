@@ -1,4 +1,4 @@
-# Instagram-phishing.html
+# Instagram-phishing.PHP
 instagram phishing.html
 Ces fichiers ont un but éducatif et n'insite pas au phishing. Le phishing est une pratique ilégale.
 Je serais en aucun cas tenu comme responsable de vos actes.
